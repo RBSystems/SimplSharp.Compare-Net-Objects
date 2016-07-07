@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crestron.SimplSharp.Compare-NET-Objects", "Crestron.SimplSharp.Compare-NET-Objects\Crestron.SimplSharp.Compare-NET-Objects.csproj", "{5B872C5B-B44C-4FC6-B1C6-34A0972BDF1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crestron.SimplSharp.Compare-NET-Objects-Tests", "Compare-NET-Objects-Tests\Crestron.SimplSharp.Compare-NET-Objects-Tests.csproj", "{6DDBCCFD-88B5-4EC0-A5C6-1D40F29AAE23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B872C5B-B44C-4FC6-B1C6-34A0972BDF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B872C5B-B44C-4FC6-B1C6-34A0972BDF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B872C5B-B44C-4FC6-B1C6-34A0972BDF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B872C5B-B44C-4FC6-B1C6-34A0972BDF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDBCCFD-88B5-4EC0-A5C6-1D40F29AAE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDBCCFD-88B5-4EC0-A5C6-1D40F29AAE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDBCCFD-88B5-4EC0-A5C6-1D40F29AAE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDBCCFD-88B5-4EC0-A5C6-1D40F29AAE23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
